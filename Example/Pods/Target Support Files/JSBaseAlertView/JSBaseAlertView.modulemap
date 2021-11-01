@@ -1,0 +1,6 @@
+framework module JSBaseAlertView {
+  umbrella header "JSBaseAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

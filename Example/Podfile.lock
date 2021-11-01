@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JSBaseAlertView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JSBaseAlertView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JSBaseAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JSBaseAlertView: abe7a2e38515c65c444232b893a2e3a434f08625
+
+PODFILE CHECKSUM: aa857c3134869095f516c7d2bea532b72be66118
+
+COCOAPODS: 1.10.1
